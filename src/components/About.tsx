@@ -6,11 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          B.Tech in Mathematics & Computer Science at DTU, currently driving
+          Strategy & Ops at lendingplate. From building AI-powered tools and
+          ML models to leading communities like MCE and E-Cell DTU — I operate
+          with the intensity of a man on a mission. Published researcher,
+          certified in CNNs, ML, and Azure AI. Whether it's code, strategy,
+          or community — no capes, just hoodies and relentless execution.
         </p>
       </div>
     </div>

@@ -32,15 +32,15 @@ const setCharacter = (
               if (child.isMesh) {
                 const mesh = child as THREE.Mesh;
 
-                // Change clothing colors to match site theme
+                // Change clothing colors to Batman DTU hoodie theme
                 if (mesh.material) {
-                  if (mesh.name === "BODY.SHIRT") { // The shirt mesh
+                  if (mesh.name === "BODY.SHIRT") { // The shirt/hoodie mesh - dark Batman navy
                     const newMat = (mesh.material as THREE.Material).clone() as THREE.MeshStandardMaterial;
-                    newMat.color = new THREE.Color("#8B4513");
+                    newMat.color = new THREE.Color("#1a1a2e");
                     mesh.material = newMat;
                   } else if (mesh.name === "Pant") {
                     const newMat = (mesh.material as THREE.Material).clone() as THREE.MeshStandardMaterial;
-                    newMat.color = new THREE.Color("#000000");
+                    newMat.color = new THREE.Color("#0f0f0f");
                     mesh.material = newMat;
                   }
                 }
