@@ -10,7 +10,7 @@ const About = () => {
           Strategy & Ops at lendingplate. From building AI-powered tools and
           ML models to leading communities like MCE and E-Cell DTU — I operate
           with the intensity of a man on a mission. Published researcher,
-          certified in CNNs, ML, and Azure AI. Whether it's code, strategy,
+          certified in DL, ML, and Azure AI. Whether it's code, strategy,
           or community — no capes, just hoodies and relentless execution.
         </p>
       </div>
