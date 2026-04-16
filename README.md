@@ -14,7 +14,7 @@ This portfolio is designed to reflect who I am:
 
 ## 🌐 Live Website
 
-🔗 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+🔗 **Portfolio:** [parvbansal.com](https://parvbansal.vercel.app/)
 
 ## ✨ Features
 
